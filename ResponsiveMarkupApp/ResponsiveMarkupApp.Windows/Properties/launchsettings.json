@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"ResponsiveMarkupApp.Windows (Unpackaged)": {
+			"commandName": "Project"
+		},
+		"ResponsiveMarkupApp.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}
